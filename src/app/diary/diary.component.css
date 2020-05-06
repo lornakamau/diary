@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Playfair+Display&display=swap');
+div.container-fluid{
+    margin: 2%;
+    font-family: 'Lato', sans-serif;
+  }
+div.content{
+  padding-bottom: 2%;
+}
+h1{
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  padding-bottom: 9%;
+  font-size: 50px;
+}
