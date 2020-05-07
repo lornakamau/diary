@@ -33,6 +33,7 @@ Should you be unable to access the website, have any recommendations or question
 
 ## To-do
 1. Store diary entries in a database
+2. Display a given number of previous diary entries (say for most recent month or 10 most recent)
 
 ## [License](https://github.com/lornakamau/diary/blob/master/LICENSE.md)
 
