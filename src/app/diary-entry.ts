@@ -4,3 +4,8 @@ export class DiaryEntry {
     this.showDescription=false;
   }
 }
+export interface IEntries{
+  title: string,
+  entryDate: Date,
+  entryDescription: string
+}
